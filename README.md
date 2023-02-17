@@ -1,1 +1,1 @@
-# OA-medical-images
+# medical-images
