@@ -6,7 +6,7 @@
 📅 **Timeframe:** *Feburary 2023-April 2023*  
 📍 **Author:** **Jess Valiarovski**  
 📚 **Company:** **Centaur Labs**  
-🎓 **Acknowledgements:** Thank you, **Anant Jain and Open Avenues**!  
+🎓 **Acknowledgements:** Thank you **Anant Jain** for mentorship and **Open Avenues** for the internship opprotunity!  
 
 
 ## 🚀 **Project Overview**  
