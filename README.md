@@ -54,7 +54,7 @@ This project examines **the reliability of crowdsourced medical image labeling**
 ## 🛠  **Key Findings & Visuals**  
 - **The crowd was overall more confident** while **experts were more frequently split** in their diagnostic labeling.
 - **Only 0.92% of cases reached unanimous expert agreement**, while **5.77% of cases reached unanimous crowd agreement**.
-- 
+
 ### 🔬 **Conclusion**  
 📌 **Aggregated crowd opinions were more consistent** with final expert consensus than individual expert votes.
 📌 **Crowdsourced medical image labeling can reduce reliance on medical experts and cut sourcing costs** and 
