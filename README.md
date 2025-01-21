@@ -78,8 +78,3 @@ also **generate high-quality labeled medical imaging datasets for AI diagnostic 
 📎 [exploratory_analysis-final-4.ipynb](./exploratory_analysis-final-4.ipynb)  
 
 ---
-
-## 🔮 **Future Work**  
-
-🔹 **Use machine learning tools such as PyTorch** to assess the training quality of the dataset
----
