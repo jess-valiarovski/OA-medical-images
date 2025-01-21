@@ -57,6 +57,7 @@ This project examines **the reliability of crowdsourced medical image labeling**
 
 ### 🔬 **Conclusion**  
 📌 **Aggregated crowd opinions were more consistent** with final expert consensus than individual expert votes.
+
 📌 **Crowdsourced medical image labeling can reduce reliance on medical experts and cut sourcing costs** and 
 also **generate high-quality labeled medical imaging datasets for AI diagnostic training**.  
 
